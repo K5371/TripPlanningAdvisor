@@ -261,9 +261,6 @@ session_start();
     </script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
     </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIO1ZyenC04sEM6O0Lx1m4M7xqBtzLS9w&callback=initMap">
-    </script>
 
 
  <?php include "footer.php";

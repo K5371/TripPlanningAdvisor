@@ -2,4 +2,4 @@
 CS411Project
 
 
-http://tripknitter.web.engr.illinois.edu/
+Link: bit.ly/2RqIzqV
